@@ -1,0 +1,17 @@
+@media screen only and(max-width: 992px){
+	.service-area .card{
+		height: auto!important;
+	}
+}
+
+@media screen only and(max-width: 768px){
+	.service-area .card{
+		height: auto!important;
+	}
+}
+
+@media screen only and(max-width: 480px){
+	.service-area .card{
+		height: auto!important;
+	}
+}
